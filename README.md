@@ -59,6 +59,7 @@ KPI Cards:
   Eligible Customers
   Increase Percentage
   Total Simulated Exposure
+
 Detail Table:
   Customer ID
   Current Limit
@@ -70,6 +71,8 @@ The design prevents accidental filtering and keeps metrics stable during interac
 *Tools Used*
 SQL Server – Data modelling, business logic, risk rules
 Power BI Desktop – Measures, What If parameter, dashboarding
+
+  [credit limit simulator overview ](images/dashboard_overview.png)
 
                   *Key Insights*
 Eligibility remains stable while exposure changes dynamically
